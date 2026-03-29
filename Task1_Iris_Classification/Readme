@@ -1,0 +1,13 @@
+# Iris Flower Classification
+
+This project predicts iris flower species using Machine Learning.
+
+## Technologies
+- Python
+- Scikit-learn
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Model Used
+Logistic Regression
